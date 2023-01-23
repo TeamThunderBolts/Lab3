@@ -1,7 +1,7 @@
 NAME : Rajasthan
 COMMENT : list of 20 tourist places in rajasthan
 TYPE : TSP
-DIMENSION : 20
+DIMENSION : 10
 EDGE_WEIGHT_TYPE : EUC_2D
 NODE_COORD_SECTION
 Jodhpur 26.2389 73.0243
